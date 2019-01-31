@@ -1,6 +1,6 @@
 # React + Parcel
 
-It´s a sample example build react application with parcel
+This is a simple example of how to build a reactjs application with parcel
 
 ## Getting Started
 
@@ -14,16 +14,16 @@ Please consult the steps to deploy your project
 
 ### Technologies
 
-| Tech      | Description                                                                       |
-| --------- | --------------------------------------------------------------------------------- |
-| NodeJS    | [https://nodejs.org/en/download/](https://nodejs.org/en/download/)                |
-| NPM       | [https://docs.npmjs.com/](https://docs.npmjs.com/)                                |
-| Parcel    | [https://parceljs.org/hmr.html](https://parceljs.org/hmr.html)                    |
-| Babel     | [https://babeljs.io/](https://babeljs.io/)                                        |
-| Node Sass | [https://github.com/sass/node-sass](https://github.com/sass/node-sass)            |
-| ReactJS   | [https://github.com/babel/babel-loaderhttps://reactjs.org/](https://reactjs.org/) |
-| ES6       | [http://es6-features.org](http://es6-features.org)                                |
-| DOTENV    | [https://github.com/motdotla/dotenv](https://github.com/motdotla/dotenv)          |
+| Tech      | Description                                                              |
+| --------- | ------------------------------------------------------------------------ |
+| NodeJS    | [https://nodejs.org/en/download/](https://nodejs.org/en/download/)       |
+| NPM       | [https://docs.npmjs.com/](https://docs.npmjs.com/)                       |
+| Parcel    | [https://parceljs.org/hmr.html](https://parceljs.org/hmr.html)           |
+| Babel     | [https://babeljs.io/](https://babeljs.io/)                               |
+| Node Sass | [https://github.com/sass/node-sass](https://github.com/sass/node-sass)   |
+| ReactJS   | [https://github.com/babel/babel-loader/](https://reactjs.org/)           |
+| ES6       | [http://es6-features.org](http://es6-features.org)                       |
+| DOTENV    | [https://github.com/motdotla/dotenv](https://github.com/motdotla/dotenv) |
 
 ## Installing
 
