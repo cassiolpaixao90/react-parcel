@@ -22,7 +22,7 @@ Please consult the steps to deploy your project
 | --------- | ------------------------------------------------------------------------ |
 | NodeJS    | [https://nodejs.org/en/download/](https://nodejs.org/en/download/)       |
 | NPM       | [https://docs.npmjs.com/](https://docs.npmjs.com/)                       |
-| Parcel    | [https://parceljs.org/hmr.html](https://parceljs.org/hmr.html)           |
+| Parcel    | [https://parceljs.org/](https://parceljs.org/)           |
 | Babel     | [https://babeljs.io/](https://babeljs.io/)                               |
 | Node Sass | [https://github.com/sass/node-sass](https://github.com/sass/node-sass)   |
 | ReactJS   | [https://github.com/babel/babel-loader/](https://reactjs.org/)           |
