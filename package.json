@@ -1,0 +1,22 @@
+{
+  "name": "react-parcel",
+  "version": "1.0.0",
+  "description": "It´s a sample example build react application with parcel",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url ./"
+  },
+  "author": "Cássio Paixão",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.7.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.5.1"
+  }
+}
