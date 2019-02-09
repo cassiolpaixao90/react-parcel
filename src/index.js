@@ -20,7 +20,7 @@ App.propTypes = {
 };
 
 function renderApp() {
-  render(<App name="React + Parcel1" />, document.getElementById('root'));
+  render(<App name="React + Parcel" />, document.getElementById('root'));
 }
 
 renderApp();
