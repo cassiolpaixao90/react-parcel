@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import { render } from "react-dom";
 import Header from "./components/Header";
 import "./scss/app.scss";
 
@@ -17,8 +17,12 @@ class App extends React.Component {
   }
 }
 
-ReactDOM.render(<App name="React + Parcel" />, document.getElementById("root"));
+function renderApp() {
+  render(<App name="React + Parcel1" />, document.getElementById("root"));
+}
+
+renderApp();
 
 if (module.hot) {
-  module.hot.accept();
+  module.hot.accept(renderApp);
 }
