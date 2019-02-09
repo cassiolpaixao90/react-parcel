@@ -36,7 +36,7 @@ Please consult the steps to deploy your project
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/cassiolpaixao90/react-parcel.git
+git clone https://github.com/cassiolpaixao90/react-parcel-spa.git
 ```
 
 **2. Install dependence the app using NPM or YARN**
