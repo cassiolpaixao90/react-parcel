@@ -1,8 +1,8 @@
+import 'babel-polyfill';
 import React from 'react';
 import { render } from 'react-dom';
 import PropTypes from 'prop-types';
 import Header from './components/Header';
-
 import './scss/app.scss';
 
 const App = props => (
