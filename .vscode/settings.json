@@ -1,0 +1,13 @@
+{
+  "eslint.enable": true,
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true,
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 1,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "window.titleBarStyle": "native",
+  "window.menuBarVisibility": "toggle",
+  "editor.rulers": [80]
+}
